@@ -1,16 +1,14 @@
-# Hi there 👋
+# Hello World!
 
-<!--
-**mai-gh/mai-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you'd like to check out what I'm currently up to, you can visit my [Blog](https://mai-gh.github.io/blog/).
 
-Here are some ideas to get you started:
+If you'd like to connect with me professionally, you can visit my [LinkedIn](https://www.linkedin.com/in/maiatwell/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like to get in direct contact, you can send me an [E-mail](mailto:jea989@gmail.com?subject=I%20found%20your%20github%20page&body=Hi%20Mai!).
+
+If you'd like to see my travel photos, you can visit my [Mastadon](https://todon.eu/@mai)
+
+- - - 
+
+### Portfolio Highlights
+
