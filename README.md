@@ -1,4 +1,6 @@
-# Hello World!    [My Resume](https://resume.ml/)
+# Hello World!
+
+[My Resume](https://resume.ml/)
 
 If you'd like to check out what I'm currently up to, you can visit my [Blog](https://mai-gh.github.io/blog/).
 
