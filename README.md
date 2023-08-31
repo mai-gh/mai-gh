@@ -1,6 +1,6 @@
 # Hello World!
 
-If you're interested in hiring me, you can take a look at [My Resume](https://resume.ml/).
+If you're interested in hiring me, you can take a look at [My Resume](https://mai-gh.github.io/resume/).
 
 If you'd like to check out what I'm currently up to, you can visit [My Blog](https://mai-gh.github.io/blog/).
 
